@@ -4,11 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <PackageId>Box.Template.ZPL</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Resul Demirok</Authors>
     <Company>Resul Co</Company>
     <Description>.NET library for creating ZPL (Zebra Programming Language) labels using template-based approach.</Description>
-    <PackageTags>ZPL;Template</PackageTags>
+    <PackageTags>zpl zebra label printer barcode qrcode thermal-printing label-printing shipping-label template template-builder template-generator</PackageTags>
     <RepositoryUrl>https://github.com/resuldemirok/Box.Template.ZPL</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
